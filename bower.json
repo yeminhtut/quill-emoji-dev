@@ -1,0 +1,24 @@
+{
+  "name": "quill-emoji",
+  "description": "Module extension for Quill.js that handles emojis in the too",
+  "main": "webpack.config.js",
+  "authors": [
+    "Ye Min Htut"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "content",
+    "marketing",
+    "quill",
+    "editor"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
